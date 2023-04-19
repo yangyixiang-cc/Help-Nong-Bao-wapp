@@ -171,3 +171,7 @@ git clone https://github.com/yangyixiang-cc/Help-Nong-Bao-wapp.git
 #  反馈
 
 如果您有任何反馈，请通过发送至[电子邮件](mailto:workyyx@163.com)与我联系/或者提交`issues` 。
+
+# 注意
+
+不能用于商业用途以及用于比赛，只能进行学习和参考。
