@@ -160,6 +160,10 @@ git clone https://github.com/yangyixiang-cc/Help-Nong-Bao-wapp.git
 
 然后就可以在后台添加内容了
 
+**导入出错，参考以下文章**
+
+ [点击进入](https://blog.csdn.net/qiushi_1990/article/details/130295442)
+
 ![](./data/readme/s2.png)
 
 **注意：项目根目录下 `/data/img`  下的图片你可能会用到。**
